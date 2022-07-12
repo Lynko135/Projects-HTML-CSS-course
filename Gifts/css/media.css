@@ -1,0 +1,401 @@
+@media all and (max-width:1450px) {
+    .container {
+        width: 1200px;
+    }
+    * {
+        transition: .3s;
+    }
+    .banner .container > div:nth-of-type(1) {
+        flex-direction: column;
+        padding-top: 154px;
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+    .banner .container > div:nth-of-type(3) {
+        margin-top: -4px;
+    }
+    .banner .container > div > img {
+        width: 100%;
+    }
+    .banner .container > div:nth-of-type(4) {
+        flex-direction: column;
+        padding-top: 60px;
+        padding-left: 60px;
+        padding-right: 100px;
+    }
+    .banner {
+        height: 1083px;
+    }
+    .ocassions .container > div:nth-of-type(2) {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .orange .container {
+        padding-left: 130px;
+    }
+    .blogs .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .footer .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .footer .container > img {
+        margin-left: 100px;
+    }
+}
+@media all and (max-width:1250px) {
+    .container {
+        width: 900px;
+    }
+    * {
+        transition: .3s;
+    }
+    .banner .container > div:nth-of-type(1) {
+        padding-top: 50px;
+        padding-left: 40px;
+    }
+    .banner .container > div:nth-of-type(1) > div {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    h1 {
+        font-size: 40px;
+        font-weight: 700;
+        margin-bottom: 36px;
+        line-height: 45px;
+    }
+    .banner .container > div:nth-of-type(1) > button {
+        width: 150px;
+        font-size: 15px;
+    }
+    .banner .container > div:nth-of-type(4) {
+        flex-direction: column;
+        padding-top: 45px;
+        padding-left: 80px;
+        padding-right: 60px;
+    }
+    .banner .container > div:nth-of-type(4) > button, .banner .container > div:nth-of-type(1) > button {
+        width: 150px;
+        font-size: 15px;
+    }
+    .banner .container > div:nth-of-type(4) > div {
+        font-size: 15px;
+    }
+    .banner {
+        height: 813px;
+    }
+    .ocassions .container > div:nth-of-type(2) {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .ocassions .container {
+        padding-left: 155px;
+        padding-right: 155px;
+    }
+    .ocassions .container > div > div {
+        margin-bottom: 20px;
+    }
+    .ocassions .container > div:nth-of-type(1) {
+        margin-bottom: 40px;
+    }
+    .ocassions {
+        height: 1090px;
+        padding-top: 50px;
+    }
+    .orange .container > div > div:nth-of-type(2) {
+        font-size: 20px;
+    }
+    .orange .container > div > div:nth-of-type(1) {
+        font-size: 25px;
+    }
+    .orange button:nth-of-type(1) {
+        margin-left: 105px;
+    }
+    .blogs {
+        padding-top: 50px;
+    }
+    .blogs h3 {
+        margin-bottom: 10px;
+    }
+    .blogs .container > div:nth-of-type(1) {
+        margin-bottom: 35px;
+    }
+    .black > div {
+        padding-top: 50px;
+        padding-right: 120px;
+    }
+    h2 {
+        font-size: 38px;
+        line-height: 50px;
+        margin-bottom: 60px;
+    }
+    .footer .container > img {
+        margin-left: 200px;
+        width: 500px;
+    }
+    .social {
+        margin-right: 0;
+        margin-top: 35px;
+        margin-left: 0;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+    .footer .container ul:nth-of-type(1) > li:nth-of-type(3) {
+        margin-right: 80px;
+        margin-left: 80px;
+    }
+    .footer .container ul:nth-of-type(1) {
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+}
+@media all and (max-width: 950px) {
+    .container {
+        width: 600px;
+    }
+    * {
+        transition: .3s;
+    }
+    .header .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .header ul li a {
+        font-size: 15px;
+        color: rgba(0, 0, 0, 1);
+        transition: .3s;
+    }
+    .header button {
+        width: 100px;
+        height: 34.5px;
+        cursor: pointer;
+        font-size: 14px;
+    }
+    .header ul {
+        width: 320px;
+        margin-top: 12px;
+        margin-left: 0;
+    }
+    .banner .container > div:nth-of-type(1) {
+        padding-top: 25px;
+        padding-left: 0px;
+    }
+    h1 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 20px;
+        line-height: 36px;
+    }
+    .banner .container > div:nth-of-type(1) > div {
+        font-size: 12px;
+        margin-bottom: 40px;
+    }
+    .banner .container > div:nth-of-type(4) > button, .banner .container > div:nth-of-type(1) > button {
+        width: 150px;
+        font-size: 14px;
+        height: 36px;
+    }
+    .banner .container > div:nth-of-type(1) > button {
+        margin-left: 60px;
+
+    }
+    .banner .container > div:nth-of-type(4) {
+        padding-top: 15px;
+        padding-left: 25px;
+        padding-right: 0;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    .banner .container > div:nth-of-type(4) > div {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .banner .container > div:nth-of-type(4) > button {
+        margin-left: 60px;
+    }
+    .banner {
+        height: 542px;
+    }
+    .ocassions .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .orange .container {
+        padding-left: 0;
+    }
+    .orange button {
+        width: 150px;
+        height: 36px;
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .orange button:nth-of-type(1) {
+        margin-left: 25px;
+    }
+    .black {
+        flex-wrap: wrap;
+    }
+    .black > div {
+        padding: 30px;
+    }
+    .blogs .container {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .read > div > div:nth-of-type(2) {
+        display: none;
+    }
+    .read > div {
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    .read {
+        flex-wrap: wrap;
+    }
+    h2 {
+        margin-bottom: 40px;
+    }
+    .blogs {
+        height: 1150px;
+    }
+    .footer {
+        height: 200px;
+        padding-top: 25px;
+    }
+    .footer .container ul:nth-of-type(1) {
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+    .footer .container ul:nth-of-type(1) > li:nth-of-type(3) {
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+    .footer .container > img {
+        margin-left: 55px;
+    }
+    .social {
+        padding-left: 100px;
+        padding-right: 100px;
+        margin-top: 15px;
+    }
+}
+@media all and (max-width: 650px) {
+    .container {
+        width: 360px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    * {
+        transition: .3s;
+    }
+    .header .container {
+        flex-wrap: wrap;
+        
+    }
+    #logo {
+        margin-left: 154px;
+    }
+    .header ul {
+        width: 360px;
+        margin-bottom: 20px;
+    }
+    .header ul li a:hover {
+        font-size: 15px;
+    }
+    .header {
+        height: 140px;
+    }
+    .header button {
+        width: 140px;
+        margin-left: 105px;
+        height: 25px;
+    }
+    .banner .container > div:nth-of-type(1) {
+        width: auto;
+        padding-right: 0;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    h1 {
+        text-align: center;
+    }
+    .banner .container > div:nth-of-type(4) > button, .banner .container > div:nth-of-type(1) > button {
+        width: 140px;
+        font-size: 14px;
+        height: 25px;
+    }
+    .banner .container > div:nth-of-type(1) > div {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .banner .container > div:nth-of-type(1) > button {
+        margin-left: 0;
+    }
+    #thanks {
+        margin-top: 4px;
+        width: 170px;
+        height: 166px;
+    }
+    .banner .container > div:nth-of-type(4) {
+        padding-top: 15px;
+        padding-left: 0;
+        padding-right: 0;
+        width: auto;
+        align-items: center;
+    }
+    .banner {
+        height: 630px;
+    }
+    .banner .container > div:nth-of-type(4) > button {
+        margin-left: 0;
+    }
+    .ocassions .container > div > div {
+        margin-left: 42px;
+    }
+    h5 {
+        margin-bottom: 10px;
+    }
+    .ocassions {
+        height: 1725px;
+    }
+    .orange .container > div > div:nth-of-type(1) {
+        font-size: 20px;
+    }
+    .orange .container > div > div:nth-of-type(2) {
+        font-size: 15px;
+    }
+    .orange {
+        height: 150px;
+    }
+    .orange .container {
+        padding-left: 0;
+        justify-content: center;
+    }
+    .blogs .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .black img {
+        width: 100%;
+    }
+    .footer .container > img {
+        margin-left: 0;
+        width: 100%;
+    }
+    .social {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .container {
+        flex-wrap: wrap;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
